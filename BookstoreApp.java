@@ -142,7 +142,7 @@ public class BookstoreApp {
             System.out.println("Look and feel setup failed");
         }
 
-        frame = new JFrame("Online Bookstore Management System");
+        frame = new JFrame("BOOKBUGS");
         frame.setSize(600, 400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new BorderLayout());
